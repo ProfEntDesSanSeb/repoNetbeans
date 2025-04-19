@@ -19,6 +19,10 @@ public class Teoria {
         int b = 10;
         System.out.println(a);
         System.out.println(b);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(a);
+        System.out.println(b);
 
         int suma = sumaNumeros(a, b);
 
