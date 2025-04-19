@@ -23,6 +23,8 @@ public class Teoria {
         System.out.println(b);
         System.out.println(a);
         System.out.println(b);
+      System.out.println("prueba final");
+        System.out.println("prueba final");
 
         int suma = sumaNumeros(a, b);
 
