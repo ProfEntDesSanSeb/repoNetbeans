@@ -10,7 +10,11 @@ package teoria;
  */
 public class Teoria {
 
-  public static void main(String[] args) {
+    /**
+     *
+     * @param args
+     */
+    public static void main(String[] args) {
         System.out.println("Hello World!");
 
         int a;
@@ -36,6 +40,12 @@ public class Teoria {
             }
     }
 
+    /**
+     *
+     * @param a
+     * @param b
+     * @return
+     */
     public static int sumaNumeros(int a, int b) {
         int num;
         num = a + b;
